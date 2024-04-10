@@ -7,7 +7,7 @@ cd data
 #
 # Get NVD files. This will break in 2025.
 #
-wget -i ../file-list-initial.txt
+wget -i ../file-list-updates.txt
 
 gzip -d *.gz
 
