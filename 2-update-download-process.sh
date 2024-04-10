@@ -21,5 +21,5 @@ for file in *.json; do
 done
 
 
-#cd ..
-#rm -rf data
+cd ..
+rm -rf data
